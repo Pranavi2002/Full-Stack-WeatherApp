@@ -40,6 +40,8 @@ weatherapp-fullstack/
 ├── README.md
 └── package.json     # Project-level (optional if separate for client/server)
 
+---
+
 ## 🔑 Features
 🔍 Search weather by city name
 📍 Get weather using browser geolocation
@@ -48,11 +50,16 @@ weatherapp-fullstack/
 🧼 Clear current weather search
 🌐 Connects to OpenWeatherMap API
 
-## server/.env
+---
+## 🔧 Environment Variables 
+
+server/.env
 ```env
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 OPENWEATHER_API_KEY=your_openweathermap_api_key
+
+---
 
 ## 🖥️ Running Locally
 1. Clone the repository
@@ -76,6 +83,8 @@ App should now be running at:
 ➡️ http://localhost:3000 (React frontend)
 ➡️ http://localhost:5000/api (Express backend)
 
+---
+
 ## 📝 API Reference
 GET /weather/city/:cityName
 GET /weather/coords?lat=...&lon=...
@@ -84,12 +93,16 @@ POST /auth/login
 POST /history (auth required)
 GET /history (auth required)
 
+---
+
 ## 🧠 Future Enhancements
 🌎 Show map or region for geolocation
 🔄 Use reverse geocoding to convert latitude/longitude to a better city name 
 📊 Display 5-day weather forecast
 🔒 OAuth login (Google/GitHub)
 📱 Mobile responsive improvements
+
+---
 
 ## 👩‍💻 Author
 ### Pranavi Kolipaka
