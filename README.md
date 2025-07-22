@@ -52,13 +52,14 @@ weatherapp-fullstack/
 🌐 Connects to OpenWeatherMap API
 
 ---
+
 ## 🔧 Environment Variables 
 
-server/.env
+server/.env  
 ```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-OPENWEATHER_API_KEY=your_openweathermap_api_key
+MONGO_URI=your_mongodb_connection_string  
+JWT_SECRET=your_secret_key  
+OPENWEATHER_API_KEY=your_openweathermap_api_key  
 
 ---
 
