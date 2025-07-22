@@ -43,6 +43,7 @@ weatherapp-fullstack/
 ---
 
 ## 🔑 Features
+
 🔍 Search weather by city name
 📍 Get weather using browser geolocation
 🧾 Login/Register using secure JWT tokens
