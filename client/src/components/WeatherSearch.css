@@ -1,0 +1,22 @@
+.search {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.search input {
+  padding: 0.5rem;
+  width: 200px;
+  font-size: 1rem;
+}
+
+.search button {
+  margin-left: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.clear{
+  color: red;
+  margin-left: 0.5rem;
+}
