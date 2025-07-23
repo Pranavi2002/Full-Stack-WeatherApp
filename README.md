@@ -97,12 +97,12 @@ App should now be running at:
 ---
 
 ## 📝 API Reference
-GET /weather/city/:cityName
-GET /weather/coords?lat=...&lon=...
-POST /auth/register
-POST /auth/login
-POST /history (auth required)
-GET /history (auth required)
+- GET /weather/city/:cityName
+- GET /weather/coords?lat=...&lon=...
+- POST /auth/register
+- POST /auth/login
+- POST /history (auth required)
+- GET /history (auth required)
 
 ---
 ### Screenshots
@@ -115,14 +115,16 @@ GET /history (auth required)
 ---
 
 ### 🧠 Future Enhancements
-🌎 Show map or region for geolocation
-🔄 Use reverse geocoding to convert latitude/longitude to a better city name
-📊 Display 5-day weather forecast
-🔒 OAuth login (Google/GitHub)
-📱 Mobile responsive improvements
+- 🌎 Show map or region for geolocation
+- 🔄 Use reverse geocoding to convert latitude/longitude to a better city name
+- 📊 Display 5-day weather forecast
+- 🔒 OAuth login (Google/GitHub)
+- 📱 Mobile responsive improvements
 
 ---
 
 ## 👩‍💻 Author
 ### Pranavi Kolipaka
-Feel free to connect: [LinkedIn] (https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/) | [GitHub] (https://github.com/Pranavi2002)
+Feel free to connect: 
+- [LinkedIn] (https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/)  
+- [GitHub] (https://github.com/Pranavi2002)
