@@ -105,7 +105,8 @@ App should now be running at:
 - GET /history (auth required)
 
 ---
-### Screenshots
+
+## Screenshots
 
 ![Register](screenshots/register.png)
 ![Login](screenshots/Login.png)
