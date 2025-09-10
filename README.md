@@ -108,9 +108,16 @@ App should now be running at:
 
 ## Screenshots
 
+### Register
 ![Register](screenshots/register.png)
+
+### Login
 ![Login](screenshots/Login.png)
+
+### Search
 ![Weather Search](screenshots/weathersearch.png)
+
+### History
 ![History](screenshots/history.png)
 
 ---
